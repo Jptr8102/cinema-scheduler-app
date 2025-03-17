@@ -4,23 +4,23 @@ Cinema Scheduler is a React Native Expo app where you can record what movies you
 
 # Screenshots
 
-1. Start Screen: User can enter number for the computer to guess
+1. Dashboard: User can enter a Movie to be added to the list.
 
-<img width="449" alt="Start Screen" src="https://github.com/user-attachments/assets/6722a412-c4f5-4160-bc38-922dd8630be1" />
+<img width="449" alt="Start Screen" src="https://github.com/Jptr8102/cinema-scheduler-app/blob/main/screenshots/sc1.png" />
 
-2. Game Screen: The computer attempts to guess user's number. If the computer's guess is higher than user's number, user must select lower. If the computer's guess is lower than user's number, user must select higher. The computer's guesses are tracked with logs.
+2. Add Movie Screen: User will input a movie for them to add to the list.
 
-<img width="449" alt="Game Screen" src="https://github.com/user-attachments/assets/1984fdbb-7a5a-479c-b4ce-1ab98b81745a" />
+<img width="449" alt="Game Screen" src="https://github.com/Jptr8102/cinema-scheduler-app/blob/main/screenshots/sc2.png" />
 
-3. Game Over Screen: Overview of how many attempts it took for the computer to guess the user's number.
+3. Dashboard with Edited Entry: Outcome of the edit of the movie "Se7en" stylized with the number 7 and not a "v".
 
-<img width="449" alt="Game Over Screen" src="https://github.com/user-attachments/assets/8e4f1ece-7e08-40dd-8623-90086f3f4880" />
+<img width="449" alt="Game Over Screen" src="https://github.com/Jptr8102/cinema-scheduler-app/blob/main/screenshots/sc3.png" />
 
 # Setup
 
 1. Download the zip folder and open it on VS Code
 2. Open a new terminal on VS Code and run `npm i`
-3. After installing the node modules, run `npm run start` to run the app
+3. After installing the node modules, run `npx expo start` to run the app
 4. Run the app on your preferred device (Android Studio emulator, Expo Go, etc.)
 
 # Built with
